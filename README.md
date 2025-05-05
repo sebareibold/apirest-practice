@@ -46,10 +46,6 @@ Sigue estos pasos para obtener una copia del proyecto en tu máquina local y eje
     ```bash
     npm install
     ```
-    o si usas yarn:
-    ```bash
-    yarn install
-    ```
 
 4.  **Inicia el servidor:**
     Ejecuta el script de inicio definido en `package.json`:
