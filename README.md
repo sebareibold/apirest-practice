@@ -42,7 +42,7 @@ Sigue estos pasos para obtener una copia del proyecto en tu máquina local y eje
     ```
 
 3.  **Instala las dependencias:**
-    Utiliza npm (o yarn si lo prefieres) para instalar todas las librerías necesarias definidas en `package.json`:
+    Utiliza npm para instalar todas las librerías necesarias definidas en `package.json`:
     ```bash
     npm install
     ```
@@ -52,7 +52,7 @@ Sigue estos pasos para obtener una copia del proyecto en tu máquina local y eje
     ```
 
 4.  **Inicia el servidor:**
-    Ejecuta el script de inicio definido en `package.json` (normalmente `npm start` o similar):
+    Ejecuta el script de inicio definido en `package.json`:
     ```bash
     npm start
     ```
